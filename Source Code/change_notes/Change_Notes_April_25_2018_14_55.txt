@@ -1,0 +1,23 @@
+Compare C:\Users\UserPC\Desktop\DTACQ\My Source Code with C:\Users\UserPC\Desktop\DTACQ\Their Source Code
+25/04/2018 15:17:47
+Filename,Folder,Comparison result,Left Date,Right Date,Extension
+Configuration - Read All Module Configurations of a Specific Type.vi,Communications\SubVIs,Binary files are different,20/04/2018 15:04:47,* 23/04/2018 15:44:21,vi
+Configuration - Read First Analog In Configuration.vi,Communications\SubVIs,Binary files are different,20/04/2018 15:03:38,* 23/04/2018 15:44:21,vi
+Configuration - Read First Analog Out Configuration.vi,Communications\SubVIs,Binary files are different,20/04/2018 15:04:41,* 23/04/2018 15:44:21,vi
+Debug - Lower Level - Logging Tool.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+Debug - Mid Level - Logging Tool.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:32:13,* 23/04/2018 15:44:21,vi
+Driver - DTACQ - Download Captured Data (Multiplexed - Signed 16 Bit).vi,Communications\SubVIs,Binary files are different,20/04/2018 14:32:14,* 23/04/2018 15:44:21,vi
+Driver - DTACQ - Read Single Line.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+Driver - DTACQ - Send Asynchronous Message.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:32:14,* 23/04/2018 15:44:21,vi
+Driver - DTACQ - Send Synchronous Message (Termex Acknowledged).vi,Communications\SubVIs,Binary files are different,20/04/2018 14:32:14,* 23/04/2018 15:44:21,vi
+Driver - DTACQ - Send Synchronous Message.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+Error Handler - DTACQ Mid Level.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+TCP Read - Array of Characters.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+TCP Read - Discard Buffer.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+TCP Read - Specified Number of Bytes.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:32:14,* 23/04/2018 15:44:21,vi
+TCP Read - Terminated String.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+TCP Write (Asynchronous) - Terminated String.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+TCP Write (Synchronous) - Send Message and Test Response.vi,Communications\SubVIs,Binary files are different,20/04/2018 14:32:14,* 23/04/2018 15:44:21,vi
+Console GUI (Read and Write).vi,GUI\Consoles,Binary files are different,20/04/2018 14:51:51,* 23/04/2018 15:44:21,vi
+Demo - Transient Capture (Multiple Shots).vi,Transient Capture (Advanced Demo),Binary files are different,20/04/2018 14:32:32,* 23/04/2018 15:44:21,vi
+Demo - Transient Capture.vi,Transient Capture (Advanced Demo),Binary files are different,20/04/2018 14:32:10,* 23/04/2018 15:44:21,vi
