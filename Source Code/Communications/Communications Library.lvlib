@@ -29,6 +29,7 @@
 			<Item Name="Configuration - INI Path-Default--Const.vi" Type="VI" URL="../SubVIs/Configuration - INI Path-Default--Const.vi"/>
 		</Item>
 		<Item Name="Numeric Constants" Type="Folder">
+			<Item Name="Status Monitor Port Number--Const.vi" Type="VI" URL="../SubVIs/Status Monitor Port Number--Const.vi"/>
 			<Item Name="Timeout for Help Command-Default--Const.vi" Type="VI" URL="../SubVIs/Timeout for Help Command-Default--Const.vi"/>
 			<Item Name="Timeout for Help2 Command-Default--Const.vi" Type="VI" URL="../SubVIs/Timeout for Help2 Command-Default--Const.vi"/>
 		</Item>
@@ -53,6 +54,8 @@
 	</Item>
 	<Item Name="Errors" Type="Folder">
 		<Item Name="Error 5100 - Command not found in list of commands--const.vi" Type="VI" URL="../SubVIs/Error 5100 - Command not found in list of commands--const.vi"/>
+		<Item Name="Error 5103 - Analog In Configuration Not Found.vi" Type="VI" URL="../SubVIs/Error 5103 - Analog In Configuration Not Found.vi"/>
+		<Item Name="Error 5102 - DTACQ unit replied with an error--const.vi" Type="VI" URL="../SubVIs/Error 5102 - DTACQ unit replied with an error--const.vi"/>
 		<Item Name="Error 5101 - Message Confirmation Not As Expected--const.vi" Type="VI" URL="../SubVIs/Error 5101 - Message Confirmation Not As Expected--const.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">

@@ -41,6 +41,7 @@ This library is dependant upon;
 			<Item Name="Read Transient Data and Write to Shared Variable.vi" Type="VI" URL="../SubVIs/Read Transient Data and Write to Shared Variable.vi"/>
 			<Item Name="Close Transient Mode.vi" Type="VI" URL="../SubVIs/Close Transient Mode.vi"/>
 		</Item>
+		<Item Name="Status Monitor" Type="Folder"/>
 		<Item Name="API - Hardware in the Loop - Run Single Shot.vi" Type="VI" URL="../SubVIs/API - Hardware in the Loop - Run Single Shot.vi"/>
 		<Item Name="API - Continuous Capture - Capture Single Buffer.vi" Type="VI" URL="../SubVIs/API - Continuous Capture - Capture Single Buffer.vi"/>
 		<Item Name="API - Continuous Capture - Capture Continuously.vi" Type="VI" URL="../SubVIs/API - Continuous Capture - Capture Continuously.vi"/>
