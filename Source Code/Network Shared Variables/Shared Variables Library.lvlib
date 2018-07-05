@@ -28,6 +28,7 @@
 		<Item Name="Select Library by Pathname.vi" Type="VI" URL="../SubVIs/Select Library by Pathname.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Share Variable and Description--Cluster.ctl" Type="VI" URL="../Typedefs/Share Variable and Description--Cluster.ctl"/>
 		<Item Name="Shared Variable Properties--Cluster.ctl" Type="VI" URL="../Typedefs/Shared Variable Properties--Cluster.ctl"/>
 		<Item Name="X and Y Variant Arrays--Cluster.ctl" Type="VI" URL="../Typedefs/X and Y Variant Arrays--Cluster.ctl"/>
 	</Item>

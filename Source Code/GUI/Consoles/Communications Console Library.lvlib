@@ -10,10 +10,12 @@
 	<Item Name="GUI" Type="Folder">
 		<Item Name="Console GUI (Read and Write).vi" Type="VI" URL="../Console GUI (Read and Write).vi"/>
 		<Item Name="Console GUI (Read-Only).vi" Type="VI" URL="../Console GUI (Read-Only).vi"/>
+		<Item Name="Get Path to Read Only Console VI.vi" Type="VI" URL="../SubVIs/Get Path to Read Only Console VI.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Console - Process Strings.vi" Type="VI" URL="../SubVIs/Console - Process Strings.vi"/>
 		<Item Name="Console - Show Front Panel (Read-Only).vi" Type="VI" URL="../SubVIs/Console - Show Front Panel (Read-Only).vi"/>
+		<Item Name="Show Read Only Console.vi" Type="VI" URL="../SubVIs/Show Read Only Console.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Console GUI-Program State--Enum.ctl" Type="VI" URL="../Typedefs/Console GUI-Program State--Enum.ctl"/>

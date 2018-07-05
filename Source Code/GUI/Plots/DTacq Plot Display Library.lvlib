@@ -26,11 +26,13 @@ It retrieves data from shared variables, and displays that data on plots and tab
 		<Item Name="XY Plot - Y Scale - Marker Width--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Y Scale - Marker Width--Const.vi"/>
 		<Item Name="XY Plot - Y Scale - Name Label Position Top--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Y Scale - Name Label Position Top--Const.vi"/>
 		<Item Name="XY Plot - Plot Area Width--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Plot Area Width--Const.vi"/>
+		<Item Name="XY Plot - Y Scale - Position - Left--Const.vi" Type="VI" URL="../SubVIs/XY Plot - Y Scale - Position - Left--Const.vi"/>
 		<Item Name="Configuration Error Message - Text--Const.vi" Type="VI" URL="../SubVIs/Configuration Error Message - Text--Const.vi"/>
 		<Item Name="Confirmation Message - Text--Const.vi" Type="VI" URL="../SubVIs/Confirmation Message - Text--Const.vi"/>
 		<Item Name="Coloured Column Number--Const.vi" Type="VI" URL="../SubVIs/Coloured Column Number--Const.vi"/>
 		<Item Name="Settings Path - Default--Const.vi" Type="VI" URL="../SubVIs/Settings Path - Default--Const.vi"/>
 		<Item Name="Tab Visibilities - Default--Const.vi" Type="VI" URL="../SubVIs/Tab Visibilities - Default--Const.vi"/>
+		<Item Name="Number of Plots Per Tab - Maximum--Const.vi" Type="VI" URL="../SubVIs/Number of Plots Per Tab - Maximum--Const.vi"/>
 		<Item Name="Number of Tabs - Maximum--Const.vi" Type="VI" URL="../SubVIs/Number of Tabs - Maximum--Const.vi"/>
 		<Item Name="Number of Tabs - Minimum--Const.vi" Type="VI" URL="../SubVIs/Number of Tabs - Minimum--Const.vi"/>
 		<Item Name="Front Panel - Title--Const.vi" Type="VI" URL="../SubVIs/Front Panel - Title--Const.vi"/>
@@ -81,6 +83,9 @@ It retrieves data from shared variables, and displays that data on plots and tab
 		<Item Name="Shared Variables" Type="Folder">
 			<Item Name="Open Connection to Shared Variables.vi" Type="VI" URL="../SubVIs/Open Connection to Shared Variables.vi"/>
 			<Item Name="Read Data from Network Shared Variables.vi" Type="VI" URL="../SubVIs/Read Data from Network Shared Variables.vi"/>
+			<Item Name="Filter Shared Variables by Type (Plot Data Clusters Only).vi" Type="VI" URL="../SubVIs/Filter Shared Variables by Type (Plot Data Clusters Only).vi"/>
+			<Item Name="Clear Plots Without Assigned Variables.vi" Type="VI" URL="../SubVIs/Clear Plots Without Assigned Variables.vi"/>
+			<Item Name="Populate Plot Data Array with Shared Variable Data.vi" Type="VI" URL="../SubVIs/Populate Plot Data Array with Shared Variable Data.vi"/>
 			<Item Name="Close Connection to Shared Variables.vi" Type="VI" URL="../SubVIs/Close Connection to Shared Variables.vi"/>
 		</Item>
 		<Item Name="Plot Data - Configure Plot GUI.vi" Type="VI" URL="../Plot Data - Configure Plot GUI.vi"/>

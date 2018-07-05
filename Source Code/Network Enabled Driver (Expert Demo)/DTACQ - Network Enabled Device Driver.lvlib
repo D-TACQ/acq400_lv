@@ -36,15 +36,18 @@ This library is dependant upon;
 			<Item Name="Close Continuous Mode.vi" Type="VI" URL="../SubVIs/Close Continuous Mode.vi"/>
 		</Item>
 		<Item Name="Transient Capture" Type="Folder">
+			<Item Name="Fire Button Control.ctl" Type="VI" URL="../SubVIs/Fire Button Control.ctl"/>
 			<Item Name="Initialise Transient Mode.vi" Type="VI" URL="../SubVIs/Initialise Transient Mode.vi"/>
-			<Item Name="Arm and Fire Transient.vi" Type="VI" URL="../SubVIs/Arm and Fire Transient.vi"/>
+			<Item Name="Arm and Set Trigger - Transient.vi" Type="VI" URL="../SubVIs/Arm and Set Trigger - Transient.vi"/>
+			<Item Name="Fire Transient.vi" Type="VI" URL="../SubVIs/Fire Transient.vi"/>
 			<Item Name="Read Transient Data and Write to Shared Variable.vi" Type="VI" URL="../SubVIs/Read Transient Data and Write to Shared Variable.vi"/>
 			<Item Name="Close Transient Mode.vi" Type="VI" URL="../SubVIs/Close Transient Mode.vi"/>
+			<Item Name="Wait for User to Soft Trigger.vi" Type="VI" URL="../SubVIs/Wait for User to Soft Trigger.vi"/>
 		</Item>
 		<Item Name="API - Hardware in the Loop - Run Single Shot.vi" Type="VI" URL="../SubVIs/API - Hardware in the Loop - Run Single Shot.vi"/>
 		<Item Name="API - Continuous Capture - Capture Single Buffer.vi" Type="VI" URL="../SubVIs/API - Continuous Capture - Capture Single Buffer.vi"/>
 		<Item Name="API - Continuous Capture - Capture Continuously.vi" Type="VI" URL="../SubVIs/API - Continuous Capture - Capture Continuously.vi"/>
-		<Item Name="API - Transient - Capture Single Transient.vi" Type="VI" URL="../SubVIs/API - Transient - Capture Single Transient.vi"/>
+		<Item Name="API - Transient - Capture Transients.vi" Type="VI" URL="../SubVIs/API - Transient - Capture Transients.vi"/>
 		<Item Name="API - Polymorphic - Transient Capture.vi" Type="VI" URL="../SubVIs/API - Polymorphic - Transient Capture.vi"/>
 		<Item Name="API - Polymorphic - Continuous Capture.vi" Type="VI" URL="../SubVIs/API - Polymorphic - Continuous Capture.vi"/>
 		<Item Name="API - Polymorphic - Hardware in the Loop.vi" Type="VI" URL="../SubVIs/API - Polymorphic - Hardware in the Loop.vi"/>
@@ -56,10 +59,12 @@ This library is dependant upon;
 			<Item Name="Publish Random Data.vi" Type="VI" URL="../SubVIs/Publish Random Data.vi"/>
 		</Item>
 		<Item Name="Create Shared Variables for All Channels.vi" Type="VI" URL="../SubVIs/Create Shared Variables for All Channels.vi"/>
+		<Item Name="Get Reference to Single Transient Capture.vi" Type="VI" URL="../SubVIs/Get Reference to Single Transient Capture.vi"/>
 		<Item Name="Get Name of Shared Variable for a Channel.vi" Type="VI" URL="../SubVIs/Get Name of Shared Variable for a Channel.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="FGV Operaions--Enum.ctl" Type="VI" URL="../SubVIs/FGV Operaions--Enum.ctl"/>
 		<Item Name="Driver Global Settings--Typedef.ctl" Type="VI" URL="../SubVIs/Driver Global Settings--Typedef.ctl"/>
 	</Item>
+	<Item Name="Open All Shared Variables for Write Access.vi" Type="VI" URL="../SubVIs/Open All Shared Variables for Write Access.vi"/>
 </Library>

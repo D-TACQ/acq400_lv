@@ -29,13 +29,13 @@
 			<Item Name="Configuration - INI Path-Default--Const.vi" Type="VI" URL="../SubVIs/Configuration - INI Path-Default--Const.vi"/>
 		</Item>
 		<Item Name="Numeric Constants" Type="Folder">
+			<Item Name="Status Monitor Port Number--Const.vi" Type="VI" URL="../SubVIs/Status Monitor Port Number--Const.vi"/>
 			<Item Name="Timeout for Help Command-Default--Const.vi" Type="VI" URL="../SubVIs/Timeout for Help Command-Default--Const.vi"/>
 			<Item Name="Timeout for Help2 Command-Default--Const.vi" Type="VI" URL="../SubVIs/Timeout for Help2 Command-Default--Const.vi"/>
 		</Item>
 		<Item Name="Global Settings" Type="Folder">
 			<Item Name="Debug - TCP - File Path--FGV.vi" Type="VI" URL="../SubVIs/Debug - TCP - File Path--FGV.vi"/>
 			<Item Name="Debug - Verbose - File Path--FGV.vi" Type="VI" URL="../SubVIs/Debug - Verbose - File Path--FGV.vi"/>
-			<Item Name="Configuration--FGV.vi" Type="VI" URL="../SubVIs/Configuration--FGV.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
@@ -53,6 +53,8 @@
 	</Item>
 	<Item Name="Errors" Type="Folder">
 		<Item Name="Error 5100 - Command not found in list of commands--const.vi" Type="VI" URL="../SubVIs/Error 5100 - Command not found in list of commands--const.vi"/>
+		<Item Name="Error 5103 - Analog In Configuration Not Found.vi" Type="VI" URL="../SubVIs/Error 5103 - Analog In Configuration Not Found.vi"/>
+		<Item Name="Error 5102 - DTACQ unit replied with an error--const.vi" Type="VI" URL="../SubVIs/Error 5102 - DTACQ unit replied with an error--const.vi"/>
 		<Item Name="Error 5101 - Message Confirmation Not As Expected--const.vi" Type="VI" URL="../SubVIs/Error 5101 - Message Confirmation Not As Expected--const.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
@@ -81,6 +83,9 @@
 			<Item Name="Configuration - Load Module Settings.vi" Type="VI" URL="../SubVIs/Configuration - Load Module Settings.vi"/>
 			<Item Name="Configuration - Determine Device Type.vi" Type="VI" URL="../SubVIs/Configuration - Determine Device Type.vi"/>
 			<Item Name="Configuration - Determine Device Type String.vi" Type="VI" URL="../SubVIs/Configuration - Determine Device Type String.vi"/>
+			<Item Name="Configuration - Select First AI Module.vi" Type="VI" URL="../SubVIs/Configuration - Select First AI Module.vi"/>
+			<Item Name="Configuration - Get All AI Modules.vi" Type="VI" URL="../SubVIs/Configuration - Get All AI Modules.vi"/>
+			<Item Name="Load an INI File Listing Other INI Files.vi" Type="VI" URL="../Load an INI File Listing Other INI Files.vi"/>
 		</Item>
 		<Item Name="Debugging Tools" Type="Folder">
 			<Item Name="Debug - Mid Level - Logging Tool.vi" Type="VI" URL="../SubVIs/Debug - Mid Level - Logging Tool.vi"/>
@@ -103,9 +108,10 @@
 			<Item Name="Transient Capture - Configure Settings.vi" Type="VI" URL="../SubVIs/Transient Capture - Configure Settings.vi"/>
 			<Item Name="Transient Capture - Arm Shot.vi" Type="VI" URL="../SubVIs/Transient Capture - Arm Shot.vi"/>
 			<Item Name="Transient Capture - Fire Shot and Wait.vi" Type="VI" URL="../SubVIs/Transient Capture - Fire Shot and Wait.vi"/>
+			<Item Name="Status - Querry Carrier.vi" Type="VI" URL="../SubVIs/Status - Querry Carrier.vi"/>
+			<Item Name="Status - Querry Carrier and AO Status.vi" Type="VI" URL="../SubVIs/Status - Querry Carrier and AO Status.vi"/>
 			<Item Name="DTACQ - Download Data Block (Demultiplexed - Signed 16 Bit).vi" Type="VI" URL="../SubVIs/DTACQ - Download Data Block (Demultiplexed - Signed 16 Bit).vi"/>
 			<Item Name="DTACQ - Download Data Block (Demultiplexed - Signed 32 Bit).vi" Type="VI" URL="../SubVIs/DTACQ - Download Data Block (Demultiplexed - Signed 32 Bit).vi"/>
-			<Item Name="DTACQ - Querry Status.vi" Type="VI" URL="../SubVIs/DTACQ - Querry Status.vi"/>
 			<Item Name="DTACQ - Set Data Size.vi" Type="VI" URL="../SubVIs/DTACQ - Set Data Size.vi"/>
 			<Item Name="DTACQ - Set All Data Sizes.vi" Type="VI" URL="../SubVIs/DTACQ - Set All Data Sizes.vi"/>
 			<Item Name="DTACQ - Read Data Size per Sample.vi" Type="VI" URL="../SubVIs/DTACQ - Read Data Size per Sample.vi"/>
