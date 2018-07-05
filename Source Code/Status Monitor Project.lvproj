@@ -64,6 +64,7 @@
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
+			<Item Name="Device Status and Index--Cluster.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Device Status and Index--Cluster.ctl"/>
 			<Item Name="DTacq Plot Display Library.lvlib" Type="Library" URL="../GUI/Plots/DTacq Plot Display Library.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

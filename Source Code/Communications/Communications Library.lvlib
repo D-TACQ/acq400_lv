@@ -36,7 +36,6 @@
 		<Item Name="Global Settings" Type="Folder">
 			<Item Name="Debug - TCP - File Path--FGV.vi" Type="VI" URL="../SubVIs/Debug - TCP - File Path--FGV.vi"/>
 			<Item Name="Debug - Verbose - File Path--FGV.vi" Type="VI" URL="../SubVIs/Debug - Verbose - File Path--FGV.vi"/>
-			<Item Name="Configuration--FGV.vi" Type="VI" URL="../SubVIs/Configuration--FGV.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
@@ -108,9 +107,10 @@
 			<Item Name="Transient Capture - Configure Settings.vi" Type="VI" URL="../SubVIs/Transient Capture - Configure Settings.vi"/>
 			<Item Name="Transient Capture - Arm Shot.vi" Type="VI" URL="../SubVIs/Transient Capture - Arm Shot.vi"/>
 			<Item Name="Transient Capture - Fire Shot and Wait.vi" Type="VI" URL="../SubVIs/Transient Capture - Fire Shot and Wait.vi"/>
+			<Item Name="Status - Querry Carrier.vi" Type="VI" URL="../SubVIs/Status - Querry Carrier.vi"/>
+			<Item Name="Status - Querry Carrier and AO Status.vi" Type="VI" URL="../SubVIs/Status - Querry Carrier and AO Status.vi"/>
 			<Item Name="DTACQ - Download Data Block (Demultiplexed - Signed 16 Bit).vi" Type="VI" URL="../SubVIs/DTACQ - Download Data Block (Demultiplexed - Signed 16 Bit).vi"/>
 			<Item Name="DTACQ - Download Data Block (Demultiplexed - Signed 32 Bit).vi" Type="VI" URL="../SubVIs/DTACQ - Download Data Block (Demultiplexed - Signed 32 Bit).vi"/>
-			<Item Name="DTACQ - Querry Status.vi" Type="VI" URL="../SubVIs/DTACQ - Querry Status.vi"/>
 			<Item Name="DTACQ - Set Data Size.vi" Type="VI" URL="../SubVIs/DTACQ - Set Data Size.vi"/>
 			<Item Name="DTACQ - Set All Data Sizes.vi" Type="VI" URL="../SubVIs/DTACQ - Set All Data Sizes.vi"/>
 			<Item Name="DTACQ - Read Data Size per Sample.vi" Type="VI" URL="../SubVIs/DTACQ - Read Data Size per Sample.vi"/>

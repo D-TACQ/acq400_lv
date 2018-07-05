@@ -1,6 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="17008000">
-	<Property Name="varPersistentID:{95695DDF-F548-4CE8-852A-F01C65D70375}" Type="Ref">/My Computer/Shared Variables Container.lvlib/ACQ1001_105_Status</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>

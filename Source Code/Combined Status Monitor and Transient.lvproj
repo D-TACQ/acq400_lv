@@ -17,12 +17,18 @@
 		<Item Name="Combined Status and Transient" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
 				<Item Name="Get Path to Status Monitor Subpanel.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Status Monitor Subpanel.vi"/>
-				<Item Name="Device Status and Index.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Device Status and Index.ctl"/>
-				<Item Name="Multi UUT GUI Commands--Enum.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Multi UUT GUI Commands--Enum.ctl"/>
+				<Item Name="Start Asynchronous Calls to Array of Status Monitors.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Start Asynchronous Calls to Array of Status Monitors.vi"/>
+				<Item Name="Start Asynchronous Calls to Array of Transient Captures.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Start Asynchronous Calls to Array of Transient Captures.vi"/>
 				<Item Name="Get Path to Transient Demo VI.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Transient Demo VI.vi"/>
+				<Item Name="Get Path to Combined Array of Status and Transient.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Get Path to Combined Array of Status and Transient.vi"/>
 				<Item Name="Load Multiple INI Files and Poll for Status Messages.vi" Type="VI" URL="../Combined Status and Transient/SubVIs/Load Multiple INI Files and Poll for Status Messages.vi"/>
 			</Item>
+			<Item Name="TypeDefs" Type="Folder">
+				<Item Name="Device Status and Index--Cluster.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Device Status and Index--Cluster.ctl"/>
+				<Item Name="Multi UUT GUI Commands--Enum.ctl" Type="VI" URL="../Combined Status and Transient/SubVIs/Multi UUT GUI Commands--Enum.ctl"/>
+			</Item>
 			<Item Name="Combine Status Monitor and Transient Capture (Multiple UUTs).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Multiple UUTs).vi"/>
+			<Item Name="Run - Array of Status Monitors With Transient Captures.vi" Type="VI" URL="../Combined Status and Transient/Run - Array of Status Monitors With Transient Captures.vi"/>
 			<Item Name="Combine Status Monitor and Transient Capture (Single UUT).vi" Type="VI" URL="../Combined Status and Transient/Combine Status Monitor and Transient Capture (Single UUT).vi"/>
 			<Item Name="Combined Status Monitor and Transient Capture (Array of Units Under Test).vi" Type="VI" URL="../Combined Status and Transient/Combined Status Monitor and Transient Capture (Array of Units Under Test).vi"/>
 		</Item>
